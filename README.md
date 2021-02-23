@@ -6,7 +6,7 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### node server.js
+### `node server.js`
 Starts the services required to run the app.
 
 ## To run tests
